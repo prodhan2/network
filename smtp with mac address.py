@@ -9,7 +9,7 @@ def get_mac_address():
 
 # Email credentials
 sender_email = "s2110476128@ru.ac.bd"
-sender_password = "Sahanur24@"  # Be careful with storing passwords in code
+sender_password = ""  # Be careful with storing passwords in code
 receiver_email = "conovix984@bitflirt.com"
 
 # Create message
